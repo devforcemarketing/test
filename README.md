@@ -9,3 +9,7 @@ test added tracking snippet
 ====
 
 test
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/devforcemarketing/test/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
